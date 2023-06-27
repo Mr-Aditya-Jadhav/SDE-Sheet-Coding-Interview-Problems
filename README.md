@@ -5,3 +5,11 @@ SDE Sheet contains very handily crafted and picked top coding interview question
 
 I am maintaining this repository, for the Strivers SDE sheet challange 2023.
 https://takeuforward.org/interviews/strivers-sde-sheet-challenge-2023/
+
+For solution approaches check my Leetcode profile, 
+I have added intuation and approaches to the question where I have used different approach.
+
+My Profiles:
+LeetCode      : https://leetcode.com/Mr_Aditya_Jadhav/
+GeeksForGeeks : https://auth.geeksforgeeks.org/user/adityajadhav2
+CodeStudio    : https://www.codingninjas.com/studio/profile/aditya_jadhav
