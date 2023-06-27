@@ -1,0 +1,38 @@
+// https://www.codingninjas.com/codestudio/problems/pascal-s-triangle_8230805?challengeSlug=striver-sde-challenge
+
+
+#include <bits/stdc++.h>
+
+#define ll long long int
+
+vector<vector<long long int>> printPascal(int n) 
+
+{
+
+  vector<vector<ll>> ans(n);
+
+ 
+
+  for(int i = 1; i<=n; i++){
+
+    ll c = 1;
+
+   for(int j = 1 ; j<=i;j++){
+
+       
+
+       ans[i-1].push_back(c);
+
+       c = c*(i -j )/j;
+
+   }
+
+  }
+
+ 
+
+  return ans;
+
+}
+
+ 
