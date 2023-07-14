@@ -1,0 +1,1 @@
+I did't added all of the codes, asmost of times I go to Lab in the day and I do programming and in the evening while doing a small revision I add those codes to github. and so this codes I have added in such a way and for codes I used different platforms so I have only added main codes and and not all
